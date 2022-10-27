@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.majorproject.model.RatesDbTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-06-16T15:35:20" hostname="am.local" time="0.588">
+  <properties/>
+  <testcase name="checkRateInDb()" classname="com.majorproject.model.RatesDbTest" time="0.567"/>
+  <testcase name="removeDb()" classname="com.majorproject.model.RatesDbTest" time="0.003"/>
+  <testcase name="insertRateDb()" classname="com.majorproject.model.RatesDbTest" time="0.009"/>
+  <testcase name="getRateDb()" classname="com.majorproject.model.RatesDbTest" time="0.005"/>
+  <testcase name="createDb()" classname="com.majorproject.model.RatesDbTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

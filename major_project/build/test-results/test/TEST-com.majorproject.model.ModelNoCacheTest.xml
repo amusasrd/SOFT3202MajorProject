@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.majorproject.model.ModelNoCacheTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-06-16T15:35:20" hostname="am.local" time="0.088">
+  <properties/>
+  <testcase name="playAudio()" classname="com.majorproject.model.ModelNoCacheTest" time="0.021"/>
+  <testcase name="getCurrencyInfo()" classname="com.majorproject.model.ModelNoCacheTest" time="0.027"/>
+  <testcase name="searchCurrency()" classname="com.majorproject.model.ModelNoCacheTest" time="0.004"/>
+  <testcase name="validateUserInput()" classname="com.majorproject.model.ModelNoCacheTest" time="0.004"/>
+  <testcase name="validateListViewCurrencyIsNew()" classname="com.majorproject.model.ModelNoCacheTest" time="0.002"/>
+  <testcase name="updateObservers()" classname="com.majorproject.model.ModelNoCacheTest" time="0.002"/>
+  <testcase name="updateConversionInfo()" classname="com.majorproject.model.ModelNoCacheTest" time="0.002"/>
+  <testcase name="validateRateInCache()" classname="com.majorproject.model.ModelNoCacheTest" time="0.001"/>
+  <testcase name="createPasteToPost()" classname="com.majorproject.model.ModelNoCacheTest" time="0.007"/>
+  <testcase name="registerObserver()" classname="com.majorproject.model.ModelNoCacheTest" time="0.002"/>
+  <testcase name="checkThresholdPassed()" classname="com.majorproject.model.ModelNoCacheTest" time="0.001"/>
+  <testcase name="validateAudioStatus()" classname="com.majorproject.model.ModelNoCacheTest" time="0.002"/>
+  <testcase name="getSubstring()" classname="com.majorproject.model.ModelNoCacheTest" time="0.002"/>
+  <testcase name="validateListViewCurrencyExists()" classname="com.majorproject.model.ModelNoCacheTest" time="0.001"/>
+  <testcase name="convertInput()" classname="com.majorproject.model.ModelNoCacheTest" time="0.002"/>
+  <testcase name="validateThreshold()" classname="com.majorproject.model.ModelNoCacheTest" time="0.001"/>
+  <testcase name="handleCacheClear()" classname="com.majorproject.model.ModelNoCacheTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

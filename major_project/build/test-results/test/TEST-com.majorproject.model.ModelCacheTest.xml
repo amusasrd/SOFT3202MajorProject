@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.majorproject.model.ModelCacheTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-16T15:35:19" hostname="am.local" time="1.055">
+  <properties/>
+  <testcase name="validateRateInCache()" classname="com.majorproject.model.ModelCacheTest" time="1.031"/>
+  <testcase name="convertInput()" classname="com.majorproject.model.ModelCacheTest" time="0.007"/>
+  <testcase name="setToOverwriteCache()" classname="com.majorproject.model.ModelCacheTest" time="0.011"/>
+  <testcase name="handleCacheClear()" classname="com.majorproject.model.ModelCacheTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.majorproject.model.queries.currencyscoop.InputOnlineTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-16T15:35:20" hostname="am.local" time="4.219">
+  <properties/>
+  <testcase name="getCurrencies1()" classname="com.majorproject.model.queries.currencyscoop.InputOnlineTest" time="2.386"/>
+  <testcase name="getConvert1()" classname="com.majorproject.model.queries.currencyscoop.InputOnlineTest" time="1.833"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
